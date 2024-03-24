@@ -1,20 +1,22 @@
+
+
 # Welcome to MS Teams Clone!
-
-### [Example Website](https://chat-app-jsmastery.netlify.app)
-
-![Teams Build with Chat Engine](https://i.ibb.co/vDhx8Md/Whats-App-Image-2021-01-26-at-02-01-43.jpg)
-
-### [🌟 Become a top 1% Next.js 13 developer in only one course](https://jsmastery.pro/next13)
-### [🚀 Land your dream programming job in 6 months](https://jsmastery.pro/masterclass)
 
 ## Introduction
 
-This is a Microsoft Teams clone built with React JS and [Chat Engine](https://chatengine.io)!
+Welcome to the Microsoft Teams clone project! This project is built with React JS and utilizes [Chat Engine](https://chatengine.io) for chat functionality.
 
-React JS is the programming language of choice, and Chat Engine is a set of APIs and UI Kit specific to chat.
+React JS is the primary programming language used for building the frontend of the application, while Chat Engine provides a set of APIs and UI Kit specifically designed for chat applications.
 
-Its a good example of learning react and creating something production ready!
+This project serves as an excellent example of learning React and creating a production-ready application.
 
-## Want to build this too?
+## What I Learned
 
-Watch the video where we build Microsoft Teams [here](https://www.youtube.com/watch?v=jcOKU9f86XE)
+Throughout this project, I gained valuable experience in the following areas:
+
+- **React JS**: Enhanced my proficiency in React JS by building a complex frontend application.
+- **Component-based Architecture**: Learned how to structure a React application using component-based architecture for better organization and scalability.
+- **State Management**: Utilized React's state management techniques to manage the application's state and user interactions effectively.
+- **API Integration**: Integrated Chat Engine's APIs to enable real-time chat functionality within the application.
+- **Responsive Design**: Implemented responsive design principles to ensure the application is accessible and functional across various devices and screen sizes.
+- **Project Deployment**: Deployed the project to a hosting platform to make it accessible to users worldwide.
