@@ -1,6 +1,3 @@
-
-markdown
-Copy code
 # Welcome to MS Teams Clone!
 
 ## Introduction
@@ -10,6 +7,17 @@ Welcome to the Microsoft Teams clone project! This project is built with React J
 React JS is the primary programming language used for building the frontend of the application, while Chat Engine provides a set of APIs and UI Kit specifically designed for chat applications.
 
 This project serves as an excellent example of learning React and creating a production-ready application.
+
+## Features
+
+- **Real-time Chat**: Engage in real-time chat with other users using the built-in chat functionality powered by Chat Engine.
+- **User Authentication**: Securely authenticate users to access the chat features and ensure privacy and security.
+- **Message Notifications**: Receive notifications for new messages and stay updated on conversations even when the app is minimized.
+- **Customizable Profile**: Personalize your profile with custom avatars, usernames, and status messages.
+- **Responsive Design**: Enjoy a seamless user experience across various devices and screen sizes thanks to the responsive design.
+- **Search Functionality**: Easily search through chat history and find specific messages or conversations.
+- **File Sharing**: Share files, images, and documents with other users directly within the chat interface.
+- **Message Encryption**: Ensure the security of your conversations with end-to-end encryption for all messages.
 
 ## What I Learned
 
